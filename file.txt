@@ -1,0 +1,3 @@
+Hi, I am Suchitra Mahapure,
+Welcome to my Github Repositories.
+This is text file to check the git and github configuration.
